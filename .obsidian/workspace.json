@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0f0ac4a266388db",
+        "id": "dde7c4e0c29c4c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "da531109e8c0d90c",
+            "id": "43e8d37e97c12a20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PortableFedoraOS/Portable OS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Portable OS"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.51103591918945
+    "width": 363.5
   },
   "right": {
     "id": "df9b8d6d653fa58a",
@@ -193,21 +197,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10a3a2be1480cbb4",
+  "active": "43e8d37e97c12a20",
   "lastOpenFiles": [
+    "PortableFedoraOS/Portable OS - Prerequisite.md",
+    "PortableFedoraOS/Portable OS.md",
+    "PortableFedoraOS",
+    "USB Passthrough using VirtualMachineManager with PiHole.md",
     "overthewire.org/wargames/Bandit/Bandit Solution.md",
     "overthewire.org/wargames/Bandit/Bandit Credentials.md",
     "overthewire.org/wargames/Bandit",
     "overthewire.org/wargames",
     "overthewire.org",
     "Bandit",
-    "Untitled.md",
     "sshkey26.private",
     "sshkey17 (Copy).private",
     "sshkey14.private",
     "sshkey17.private",
     "sshkey16.private",
-    "sshkey.private",
     "README.md",
     "level 1.md",
     "Linux Journey/0002 Command Line/5. touch.md",
