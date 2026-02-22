@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortableFedoraOS/Portable OS.md",
+                "file": "Fedora43/NTFS READONLY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portable OS"
+              "title": "NTFS READONLY"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "43e8d37e97c12a20",
   "lastOpenFiles": [
+    "Windows11/Windows Bootloader Recovery.md",
+    "Fedora43/NTFS READONLY.md",
     "PortableFedoraOS/Portable OS - Prerequisite.md",
     "PortableFedoraOS/Portable OS.md",
     "PortableFedoraOS",
@@ -235,7 +237,6 @@
     "Linux Journey/0001 Getting Started/attachments/0001_02_Linus_Torvalds.png",
     "Pasted image 20260103125323.png",
     "Fedora43/BTRFS Disk Cleanup.md",
-    "Fedora43/Image Thumbnail not loading.md",
-    "Windows11/Windows Bootloader Recovery.md"
+    "Fedora43/Image Thumbnail not loading.md"
   ]
 }
